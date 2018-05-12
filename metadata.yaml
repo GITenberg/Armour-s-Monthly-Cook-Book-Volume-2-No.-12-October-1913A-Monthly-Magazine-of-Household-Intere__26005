@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31729'
     url: http://www.gutenberg.org/2009/agents/31729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26005#Armour-s-Monthly-Cook-Book-Volume-2-No.-12-October-1913A-Monthly-Magazine-of-Household-Intere_
 gutenberg_bookshelf:
 - Armour's Monthly Cook Book
 - Cookery
